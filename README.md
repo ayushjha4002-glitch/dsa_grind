@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
