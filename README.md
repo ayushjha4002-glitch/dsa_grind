@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
 ## Math
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
