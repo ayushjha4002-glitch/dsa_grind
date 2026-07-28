@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0476-number-complement) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Math
 |  |
