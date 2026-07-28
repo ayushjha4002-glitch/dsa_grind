@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0090-subsets-ii) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
