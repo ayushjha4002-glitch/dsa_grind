@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
+| [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
