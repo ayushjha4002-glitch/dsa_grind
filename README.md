@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
 ## Recursion
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
