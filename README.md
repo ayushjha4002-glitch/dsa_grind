@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,15 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
