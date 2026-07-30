@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
