@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
 ## Design
