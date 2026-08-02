@@ -161,14 +161,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
