@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -189,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
