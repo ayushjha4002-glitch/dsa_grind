@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -199,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
