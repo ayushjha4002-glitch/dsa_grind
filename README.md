@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
 |  |
