@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
