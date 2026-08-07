@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
