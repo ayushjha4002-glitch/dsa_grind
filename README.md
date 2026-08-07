@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
 ## Backtracking
