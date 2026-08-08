@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
