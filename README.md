@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -276,4 +279,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0206-reverse-linked-list) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
