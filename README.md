@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -279,10 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 ## Linked List
 |  |
 | ------- |
