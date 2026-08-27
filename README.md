@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
 ## Backtracking
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
