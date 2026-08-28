@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
