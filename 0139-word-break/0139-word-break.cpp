@@ -2,6 +2,7 @@ class Solution {
 public:
 bool fun(string& s, int n  , int i , unordered_set<string>&st, vector<int>& dp){
     if (i==n) return true;
+    if(i>n) return false;
     if(dp[i]!=-1) return dp[i];
     for(int j=i;j<n;j++){
         string tmp= s.substr(i,j-i+1);
