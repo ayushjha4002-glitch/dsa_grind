@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0198-house-robber) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0322-coin-change) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
@@ -367,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
