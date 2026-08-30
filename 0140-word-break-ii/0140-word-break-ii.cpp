@@ -6,7 +6,7 @@ vector<string> fun(string& s, int n,int i,unordered_set<string>& st, vector<vect
     vector<string>ans;
     for(int j=i;j<n;j++){
         string tmp= s.substr(i,j-i+1);
-        if(st.find(tmp)!=st.end()){
+        if(st.count(tmp)!=0){
             vector<string>rem= fun(s,n,j+1,st,dp);
             for(auto x: rem){
                 if(x==""){
