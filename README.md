@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0206-reverse-linked-list) |
 ## Minimum Spanning Tree
 |  |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
