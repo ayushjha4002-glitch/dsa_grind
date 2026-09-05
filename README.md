@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
