@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
