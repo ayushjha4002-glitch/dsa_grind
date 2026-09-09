@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1584-min-cost-to-connect-all-points) |
+| [2402-meeting-rooms-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0560-subarray-sum-equals-k) |
+| [2402-meeting-rooms-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0977-squares-of-a-sorted-array) |
+| [2402-meeting-rooms-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/1514-path-with-maximum-probability) |
+| [2402-meeting-rooms-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2402-meeting-rooms-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
