@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0680-valid-palindrome-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Union-Find
 |  |
