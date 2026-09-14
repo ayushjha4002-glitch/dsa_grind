@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0680-valid-palindrome-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0212-word-search-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0994-rotting-oranges) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ayushjha4002-glitch/dsa_grind/tree/master/0212-word-search-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
