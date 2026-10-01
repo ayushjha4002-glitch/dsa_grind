@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-
-        unordered_map<int, int> mp;
-
-        for(int i = 0; i < nums.size(); i++) {
-
-            int rem = target - nums[i];
-
-            if(mp.find(rem) != mp.end()) {
-                return {mp[rem], i};
+        
+        int n= nums.size();
+        int i=0,j= n-1;
+        while(i<j){
+            if(nums[i]+nums[j]==target){
+                return{i,j};
             }
-
-            mp[nums[i]] = i;
+            else if(nums[i]+nums[j]<target){
+                i++;
+            } else{
+                j--;
+            }
         }
-
-        return {};
+        return {i,j};
+        
     }
 };
